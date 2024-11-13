@@ -23,7 +23,6 @@ AI Love Master 是一个基于人工智能的情感咨询平台，为用户提�
 bash
 git clone https://github.com/yourusername/ai-love-master.git
 cd ai-love-master
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/a77ming/ai-love-master2)
 
 2. 安装依赖
 bash
